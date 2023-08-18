@@ -6,9 +6,9 @@
 <a href="https://instagram.com/ariqfrhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariqfrhan" height="30" width="40" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
 
 **I'm an Early 🐤** 
 
@@ -37,17 +37,17 @@ Sunday                   80 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               9 hrs 27 mins       ███████████░░░░░░░░░░░░░░   45.50 % 
-JavaScript               3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-PHP                      3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-JSON                     2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Blade Template           1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+TypeScript               7 hrs 15 mins       ████████████░░░░░░░░░░░░░   46.85 % 
+JavaScript               3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+PHP                      1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Blade Template           1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  20 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,5 +63,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2023 12:39:43 UTC
+ Last Updated on 18/08/2023 12:38:42 UTC
 <!--END_SECTION:waka-->
