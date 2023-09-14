@@ -6,7 +6,7 @@
 <a href="https://instagram.com/ariqfrhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariqfrhan" height="30" width="40" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,9 +37,9 @@ Sunday                   80 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Java                     5 hrs 8 mins        ████████████████░░░░░░░░░   63.30 % 
+Java                     5 hrs 8 mins        ████████████████░░░░░░░░░   63.28 % 
 TypeScript               1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-PHP                      1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+PHP                      1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
 XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
@@ -63,5 +63,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2023 12:42:51 UTC
+ Last Updated on 14/09/2023 12:41:52 UTC
 <!--END_SECTION:waka-->
