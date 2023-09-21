@@ -6,7 +6,7 @@
 <a href="https://instagram.com/ariqfrhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariqfrhan" height="30" width="40" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,17 +37,17 @@ Sunday                   80 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               5 hrs 5 mins        ████████████████████████░   94.34 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-PHP                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+TypeScript               5 hrs 5 mins        ███████████████████████░░   93.23 % 
+PHP                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,5 +63,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2023 12:42:45 UTC
+ Last Updated on 21/09/2023 12:43:16 UTC
 <!--END_SECTION:waka-->
