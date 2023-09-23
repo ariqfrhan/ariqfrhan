@@ -6,7 +6,7 @@
 <a href="https://instagram.com/ariqfrhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariqfrhan" height="30" width="40" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,7 +37,7 @@ Sunday                   80 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               5 hrs 6 mins        ███████████████████████░░   93.24 % 
+TypeScript               5 hrs 6 mins        ███████████████████████░░   93.25 % 
 PHP                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
@@ -63,5 +63,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2023 12:41:04 UTC
+ Last Updated on 23/09/2023 12:37:37 UTC
 <!--END_SECTION:waka-->
