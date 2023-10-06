@@ -6,7 +6,7 @@
 <a href="https://instagram.com/ariqfrhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariqfrhan" height="30" width="40" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,5 +63,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2023 12:45:05 UTC
+ Last Updated on 06/10/2023 12:43:26 UTC
 <!--END_SECTION:waka-->
