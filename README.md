@@ -37,13 +37,14 @@ Sunday                   80 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 39 mins       ████████████████████████░   97.79 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -59,5 +60,5 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2023 12:42:06 UTC
+ Last Updated on 31/10/2023 12:41:30 UTC
 <!--END_SECTION:waka-->
