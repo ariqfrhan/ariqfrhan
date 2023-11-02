@@ -6,7 +6,7 @@
 <a href="https://instagram.com/ariqfrhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariqfrhan" height="30" width="40" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,16 +37,17 @@ Sunday                   80 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               5 hrs 6 mins        ███████████████████████░░   93.52 % 
-PHP                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+TypeScript               6 hrs 12 mins       ████████████████████████░   94.34 % 
+PHP                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -62,5 +63,5 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2023 12:41:39 UTC
+ Last Updated on 02/11/2023 12:41:35 UTC
 <!--END_SECTION:waka-->
