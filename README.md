@@ -6,6 +6,8 @@
 <a href="https://instagram.com/ariqfrhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariqfrhan" height="30" width="40" /></a>
 </p>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2019%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
 
 **I'm an Early 🐤** 
@@ -68,5 +70,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2024 14:50:56 UTC
+ Last Updated on 01/02/2024 14:52:46 UTC
 <!--END_SECTION:waka-->
