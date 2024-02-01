@@ -7,7 +7,7 @@ on:
     branches: [ main ]
   schedule:
     # Runs at 12am IST
-    - cron: '*/60 * * * *'
+    - cron: "0 */12 * * *"
 jobs:
   update-readme:
     name: Update Readme with Metrics
