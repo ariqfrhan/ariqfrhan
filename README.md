@@ -6,7 +6,7 @@
 <a href="https://instagram.com/ariqfrhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariqfrhan" height="30" width="40" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
 
@@ -16,7 +16,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 65 Contributions in the Year 2024
+> 🏆 64 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,5 +76,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2024 15:43:53 UTC
+ Last Updated on 09/02/2024 15:45:15 UTC
 <!--END_SECTION:waka-->
