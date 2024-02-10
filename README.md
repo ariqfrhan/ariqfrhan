@@ -6,17 +6,17 @@
 <a href="https://instagram.com/ariqfrhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariqfrhan" height="30" width="40" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-106-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 65 Contributions in the Year 2024
+> 🏆 67 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,21 +27,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+🌆 Daytime                594 commits         █████████░░░░░░░░░░░░░░░░   37.17 % 
+🌃 Evening                451 commits         ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+🌙 Night                  331 commits         █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   267 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Tuesday                  285 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Wednesday                262 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Thursday                 188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Friday                   326 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Saturday                 180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Sunday                   90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 ```
 
 
@@ -74,5 +74,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2024 11:03:06 UTC
+ Last Updated on 10/02/2024 12:27:48 UTC
 <!--END_SECTION:waka-->
