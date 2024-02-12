@@ -6,7 +6,7 @@
 <a href="https://instagram.com/ariqfrhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariqfrhan" height="30" width="40" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-107-blue)
 
@@ -77,5 +77,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2024 16:56:57 UTC
+ Last Updated on 12/02/2024 16:58:24 UTC
 <!--END_SECTION:waka-->
